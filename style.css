@@ -1,0 +1,9 @@
+h1{
+	color: #70166c;
+	background-color :hotpink;
+	display :inline-block;
+	border :2px solid #70166c;
+	border-radius :5px;
+	padding: 10px;
+}
+
